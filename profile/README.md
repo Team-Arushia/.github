@@ -1,12 +1,5 @@
-## Hi there 👋
+# ![icon](../icon.png) Last Traveler
 
-<!--
+라스트 트래블러는 최고의 퀄리티와 최고의 몰입감을 제공하는 서버를 개발하는 팀입니다!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://discord.gg/55W4w6rvnF"><img src="https://img.shields.io/badge/Discord-3776AB?style=for-the-badge&logo=Discord&logoColor=white"></a>
